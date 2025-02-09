@@ -64,6 +64,9 @@ The application serves a frontend UI at **http://127.0.0.1:5000/**.
 - Expanding support for **complex SQL queries**.
 - Enhancing the UI for a better user experience.
 
+## 📌 Result
+![Result](https://github.com/user-attachments/assets/652bc26d-c33b-470f-93ca-2ef373e16706)
+
 ---
 
 💡 **Contributions are welcome!** If you have ideas for improvements, feel free to fork the repository and submit a pull request. 😊
