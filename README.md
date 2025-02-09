@@ -3,7 +3,7 @@ This is a **Flask-based Chat Assistant** that allows users to query an SQLite da
 
 ## 🚀 Live Demo
 You can access the live demo of the chatbot here:  
-🔗 [Chatbot Link](https://your-app.onrender.com)  
+🔗 https://sqlite-chatbot-1-ehgf.onrender.com  
 
 ⚠️ **Note**: This app is hosted on Render's free tier, so if it's inactive, it may take **50+ seconds** to start. Please be patient! 🚀  
 
